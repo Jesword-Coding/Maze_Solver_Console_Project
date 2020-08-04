@@ -1,1 +1,1 @@
-# Maze_Solver_Console_Project
+# Maze Solver Console Project
