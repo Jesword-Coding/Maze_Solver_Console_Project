@@ -10,4 +10,4 @@ Searches performed:
 
 The Program first ask to select which search you would like to perform
 
-[Screenshot](select search.png)
+[Screenshot](Select Search.png)
