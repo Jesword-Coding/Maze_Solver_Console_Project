@@ -10,4 +10,4 @@ Searches performed:
 
 The Program first ask to select which search you would like to perform
 
-![Alt text](relative/path/to/img.jpg?raw=true "Select Search.png")
+![Alt text](relative/path/to/img.png?raw=true "Select Search")
